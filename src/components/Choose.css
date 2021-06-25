@@ -1,0 +1,51 @@
+
+.choose{
+    background-color: #4F147E;
+    margin-top: 10%;
+
+}
+.owl-carousel .owl-stage-outer {
+    margin-top: 10%; 
+    margin-left: 10%;
+}
+.slider-img{
+ width: 40%!important;
+}
+.item p{
+    color: white;
+
+margin-top: 16px;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 30px;
+text-transform: uppercase;
+}
+
+.choose h4{
+    text-align: center;
+    font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+text-transform: uppercase;
+padding-top: 90px;
+
+color: #FFFFFF;
+}
+
+
+.choose h3{
+    text-align: center;
+    font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 39px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+}
+

@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    margin-right: 50px;
+font-style: normal;
+font-weight: bold;
+font-size: 17px;
+line-height: 25px;
+text-transform: uppercase
+    
+}
+.navbar-nav {
+   
+    margin-left: 40%;
+}

@@ -1,0 +1,36 @@
+.footer{
+    width: 100%;
+   margin-top: 5%;
+    display: flex;
+    justify-content: space-around;
+}
+.footer ul li{
+    font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 37px;
+
+color: #FFFFFF;
+
+
+    list-style: none;
+}
+
+.border{
+
+border-left: 2px solid #EEEEEE;
+
+
+}
+
+.footer-para{
+   margin-left: 6%;
+   margin-top: 6%;
+    font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 37px;
+color: #FFFFFF;
+
+
+}
